@@ -17,9 +17,9 @@
 <br/>
 Для создания консольного приложения С++ мы будем использовать среду разработки Microsoft Visual Studio.
 
-https://github.com/L56joj/SQIDDY/blob/master/Картины%20эпохи%20возрождения/1.VisualStudio.png
-Запускаем приложение -> "Создание проекта" -> "Консольные приложения" -> "Далее" 
-https://github.com/L56joj/SQIDDY/blob/master/Картины%20эпохи%20возрождения/2.Создать%20проект.png
+https://github.com/L56joj/SQIDDY/blob/master/Картины%20эпохи%20возрождения/1.VisualStudio.png)
+Запускаем приложение -> "Создание проекта" -> "Консольные приложения" -> "Далее" ![Image alt](
+https://github.com/L56joj/SQIDDY/blob/master/Картины%20эпохи%20возрождения/2.Создать%20проект.pn
 https://github.com/L56joj/SQIDDY/blob/master/Картины%20эпохи%20возрождения/3.Консольное%20приложение.png
 
 <br/>
